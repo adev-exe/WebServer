@@ -26,7 +26,6 @@ static BOOL WINAPI Handler(DWORD cntrlEvent);
 // perform DLL cleanup (WSACleanup)
 void cleanup();
 
-//Program does not work with FireFox
 int main()
 {
 
