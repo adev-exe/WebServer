@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\brian\OneDrive\Documents\School\CSCI 3010\Extra credit assignment\WebServer\Debug\WebServer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\brian\OneDrive\Documents\School\CSCI 3010\Extra credit assignment\WebServer\Website\index.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\brian\OneDrive\Documents\School\CSCI 3010\Extra credit assignment\WebServer\Website\notfound.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\brian\OneDrive\Documents\School\CSCI 3010\Extra credit assignment\WebServer\Website\page2.htm</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
