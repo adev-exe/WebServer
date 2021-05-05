@@ -1,2 +1,2 @@
 # WebSever
-Basic WebSever created for Computer Networks course. 
+Basic WebSever created with group for Computer Networks course
